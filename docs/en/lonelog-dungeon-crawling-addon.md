@@ -2,7 +2,7 @@
 title: "Lonelog: Dungeon Crawling Add-on"
 subtitle: "Optional Room Tracking for Dungeon Exploration"
 author: Roberto Bisceglie
-version: 1.1.0
+version: 1.1.1
 license: CC BY-SA 4.0
 lang: en
 parent: Lonelog v1.5.0
@@ -308,7 +308,7 @@ d: Investigation d6=6 vs TN 4 -> Success
 => Secret compartment! [Thread:Cult Ritual|Open]
 [R:4|cleared, looted]
 
-(note: mark R4 as cleared on map)
+(note: add the altar to map)
 ```
 
 If you want a **fully text-based** dungeon log with no separate map, the `exits` keyword lets you reconstruct the layout from your notes. But this is the exception, not the recommendation.
@@ -445,8 +445,8 @@ d: 2d6+1=10 -> 10+ Hit: ask three questions
 **Do: Use Room tags for state, your map for space**
 
 ```
-✔ [R:4|cleared, looted]
-  (note: mark R4 cleared on map)
+✔ [R:4|cleared, looted|exits N:R7]
+  (note: add the door to R7 on map)
 ```
 
 **Don't: Try to replace your map with exit chains**
@@ -612,6 +612,7 @@ Written to address the [request](https://www.reddit.com/r/Solo_Roleplaying/comme
 
 **Version History:**
 
+- v 1.1.1: Map reminders note what to draw, not room state; state stays in the Room tag
 - v 1.1.0: Block tags unified with `[BLOCK]`/`[/BLOCK]` convention; design principles updated
 - v 1.0.0: Rewritten as a compliant add-on (previously "Dungeon Crawling Module")
 

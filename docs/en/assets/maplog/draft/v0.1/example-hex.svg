@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="250" viewBox="0 0 360 250">
+<!-- Maplog example: a hex crawl. Hex IDs are column then row, counted from 1 -->
+<rect width="360" height="250" fill="#fff"/>
+<polygon points="70.4,62.0 39.2,80.0 8.0,62.0 8.0,26.0 39.2,8.0 70.4,26.0" fill="none" stroke="#c3bccf" stroke-width="1"/>
+<text x="39.2" y="25.0" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#6b6575" text-anchor="middle">0101</text>
+<polygon points="132.7,62.0 101.5,80.0 70.4,62.0 70.4,26.0 101.5,8.0 132.7,26.0" fill="none" stroke="#c3bccf" stroke-width="1"/>
+<text x="101.5" y="25.0" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#6b6575" text-anchor="middle">0201</text>
+<polygon points="195.1,62.0 163.9,80.0 132.7,62.0 132.7,26.0 163.9,8.0 195.1,26.0" fill="#188038" fill-opacity="0.22" stroke="#585260" stroke-width="1.25"/>
+<text x="163.9" y="25.0" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#6b6575" text-anchor="middle">0301</text>
+<polygon points="257.4,62.0 226.2,80.0 195.1,62.0 195.1,26.0 226.2,8.0 257.4,26.0" fill="#a07830" fill-opacity="0.28" stroke="#585260" stroke-width="1.25"/>
+<text x="226.2" y="25.0" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#6b6575" text-anchor="middle">0401</text>
+<g transform="translate(226.2 62.0) scale(0.667)"><circle cx="0" cy="0" r="6" fill="none" stroke="#000" stroke-width="2.5"/></g>
+<polygon points="319.8,62.0 288.6,80.0 257.4,62.0 257.4,26.0 288.6,8.0 319.8,26.0" fill="#a07830" fill-opacity="0.28" stroke="#585260" stroke-width="1.25"/>
+<text x="288.6" y="25.0" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#6b6575" text-anchor="middle">0501</text>
+<polygon points="101.5,116.0 70.4,134.0 39.2,116.0 39.2,80.0 70.4,62.0 101.5,80.0" fill="#188038" fill-opacity="0.22" stroke="#585260" stroke-width="1.25"/>
+<text x="70.4" y="79.0" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#6b6575" text-anchor="middle">0102</text>
+<polygon points="163.9,116.0 132.7,134.0 101.5,116.0 101.5,80.0 132.7,62.0 163.9,80.0" fill="#188038" fill-opacity="0.22" stroke="#585260" stroke-width="1.25"/>
+<text x="132.7" y="79.0" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#6b6575" text-anchor="middle">0202</text>
+<g transform="translate(132.7 94.0) scale(0.75)"><path d="M-8 -12V13" fill="none" stroke="#000" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M-8 -11L10 -5L-8 1Z" fill="none" stroke="#000" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g transform="translate(132.7 116.0) scale(0.667)"><circle cx="0" cy="0" r="6" fill="none" stroke="#000" stroke-width="2.5"/></g>
+<polygon points="226.2,116.0 195.1,134.0 163.9,116.0 163.9,80.0 195.1,62.0 226.2,80.0" fill="#188038" fill-opacity="0.22" stroke="#585260" stroke-width="1.25"/>
+<text x="195.1" y="79.0" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#6b6575" text-anchor="middle">0302</text>
+<g transform="translate(195.1 94.0) scale(0.75)"><path d="M0 -12V12M-10.4 -6L10.4 6M-10.4 6L10.4 -6" fill="none" stroke="#000" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g transform="translate(195.1 116.0) scale(0.667)"><circle cx="0" cy="0" r="6" fill="#000" stroke="#000" stroke-width="2.5"/></g>
+<polygon points="288.6,116.0 257.4,134.0 226.2,116.0 226.2,80.0 257.4,62.0 288.6,80.0" fill="#a07830" fill-opacity="0.28" stroke="#585260" stroke-width="1.25"/>
+<text x="257.4" y="79.0" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#6b6575" text-anchor="middle">0402</text>
+<g transform="translate(257.4 116.0) scale(0.667)"><circle cx="0" cy="0" r="6" fill="none" stroke="#000" stroke-width="2.5"/><path d="M0 -6A6 6 0 0 0 0 6Z" fill="#000" stroke="#000" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<polygon points="350.9,116.0 319.8,134.0 288.6,116.0 288.6,80.0 319.8,62.0 350.9,80.0" fill="#a07830" fill-opacity="0.28" stroke="#585260" stroke-width="1.25"/>
+<text x="319.8" y="79.0" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#6b6575" text-anchor="middle">0502</text>
+<polygon points="70.4,170.0 39.2,188.0 8.0,170.0 8.0,134.0 39.2,116.0 70.4,134.0" fill="#786e96" fill-opacity="0.13" stroke="#585260" stroke-width="1.25"/>
+<text x="39.2" y="133.0" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#6b6575" text-anchor="middle">0103</text>
+<polygon points="132.7,170.0 101.5,188.0 70.4,170.0 70.4,134.0 101.5,116.0 132.7,134.0" fill="#786e96" fill-opacity="0.13" stroke="#585260" stroke-width="1.25"/>
+<text x="101.5" y="133.0" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#6b6575" text-anchor="middle">0203</text>
+<g transform="translate(101.5 148.0) scale(0.75)"><path d="M-11 12V-1L0 -11L11 -1V12Z" fill="none" stroke="#000" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g transform="translate(101.5 170.0) scale(0.667)"><circle cx="0" cy="0" r="6" fill="#000" stroke="#000" stroke-width="2.5"/></g>
+<polygon points="195.1,170.0 163.9,188.0 132.7,170.0 132.7,134.0 163.9,116.0 195.1,134.0" fill="#786e96" fill-opacity="0.13" stroke="#585260" stroke-width="1.25"/>
+<text x="163.9" y="133.0" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#6b6575" text-anchor="middle">0303</text>
+<g transform="translate(163.9 148.0) scale(0.75)"><circle cx="0" cy="3" r="7" fill="none" stroke="#000" stroke-width="2.5"/><path d="M-5.2 -2C-11.5 -1.5 -11.5 -8 -7.5 -12" fill="none" stroke="#000" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M5.2 -2C11.5 -1.5 11.5 -8 7.5 -12" fill="none" stroke="#000" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/><circle cx="-2.8" cy="2.5" r="1.5" fill="#000"/><circle cx="2.8" cy="2.5" r="1.5" fill="#000"/></g><g transform="translate(163.9 148.0) scale(0.75)"><path d="M-13 13L13 -13" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round"/><path d="M-13 13L13 -13" fill="none" stroke="#000" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="177.9" y="156.0" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', monospace" font-weight="700" font-size="9" fill="#000">&#215;2</text>
+<g transform="translate(163.9 170.0) scale(0.667)"><circle cx="0" cy="0" r="6" fill="#000" stroke="#000" stroke-width="2.5"/></g>
+<polygon points="257.4,170.0 226.2,188.0 195.1,170.0 195.1,134.0 226.2,116.0 257.4,134.0" fill="#786e96" fill-opacity="0.13" stroke="#585260" stroke-width="1.25"/>
+<text x="226.2" y="133.0" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#6b6575" text-anchor="middle">0403</text>
+<polygon points="319.8,170.0 288.6,188.0 257.4,170.0 257.4,134.0 288.6,116.0 319.8,134.0" fill="#786e96" fill-opacity="0.13" stroke="#585260" stroke-width="1.25"/>
+<text x="288.6" y="133.0" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#6b6575" text-anchor="middle">0503</text>
+<g transform="translate(288.6 148.0) scale(0.75)"><circle cx="0" cy="3" r="7" fill="none" stroke="#000" stroke-width="2.5"/><path d="M-5.2 -2C-11.5 -1.5 -11.5 -8 -7.5 -12" fill="none" stroke="#000" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M5.2 -2C11.5 -1.5 11.5 -8 7.5 -12" fill="none" stroke="#000" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/><circle cx="-2.8" cy="2.5" r="1.5" fill="#000"/><circle cx="2.8" cy="2.5" r="1.5" fill="#000"/></g>
+<text x="302.6" y="156.0" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', monospace" font-weight="700" font-size="9" fill="#000">&#215;3</text>
+<g transform="translate(288.6 170.0) scale(0.667)"><circle cx="0" cy="0" r="6" fill="none" stroke="#000" stroke-width="2.5"/></g>
+<polygon points="101.5,224.0 70.4,242.0 39.2,224.0 39.2,188.0 70.4,170.0 101.5,188.0" fill="#326ec8" fill-opacity="0.24" stroke="#585260" stroke-width="1.25"/>
+<text x="70.4" y="187.0" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#6b6575" text-anchor="middle">0104</text>
+<polygon points="163.9,224.0 132.7,242.0 101.5,224.0 101.5,188.0 132.7,170.0 163.9,188.0" fill="#326ec8" fill-opacity="0.24" stroke="#585260" stroke-width="1.25"/>
+<text x="132.7" y="187.0" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#6b6575" text-anchor="middle">0204</text>
+<polygon points="226.2,224.0 195.1,242.0 163.9,224.0 163.9,188.0 195.1,170.0 226.2,188.0" fill="#786e96" fill-opacity="0.13" stroke="#585260" stroke-width="1.25"/>
+<text x="195.1" y="187.0" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#6b6575" text-anchor="middle">0304</text>
+<polygon points="288.6,224.0 257.4,242.0 226.2,224.0 226.2,188.0 257.4,170.0 288.6,188.0" fill="none" stroke="#c3bccf" stroke-width="1"/>
+<text x="257.4" y="187.0" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#6b6575" text-anchor="middle">0404</text>
+<polygon points="350.9,224.0 319.8,242.0 288.6,224.0 288.6,188.0 319.8,170.0 350.9,188.0" fill="none" stroke="#c3bccf" stroke-width="1"/>
+<text x="319.8" y="187.0" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', monospace" font-size="9.5" fill="#6b6575" text-anchor="middle">0504</text>
+
+</svg>
